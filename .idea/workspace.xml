@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05d4e2e7-f4b3-410a-b896-cf606fd6a321" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/FullCalenderController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Models/Event.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/migrations/2021_01_19_035340_create_events_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/fullcalender.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/fullcalender.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/fullcalender.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -180,7 +180,8 @@
       <updated>1611024331167</updated>
       <workItem from="1611024332396" duration="3392000" />
       <workItem from="1611028260445" duration="1250000" />
-      <workItem from="1611033677616" duration="642000" />
+      <workItem from="1611033677616" duration="901000" />
+      <workItem from="1611066705963" duration="1427000" />
     </task>
     <servers />
   </component>
